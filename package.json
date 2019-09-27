@@ -1,0 +1,21 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "a simple app",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ann",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://annnomo@bitbucket.org/annnomo/shehacks.git"
+  },
+  "homepage": "https://bitbucket.org/annnomo/shehacks#readme"
+}
